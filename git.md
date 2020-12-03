@@ -1,0 +1,13 @@
+1.查看远程仓库信息  git remote -v
+
+2.提交到远程仓库 git push -u origin main
+
+3.命令对指定的分支进行删除  git branch -M main
+
+4.添加远程关联   git remote add origin https://github.com/wesleyPRC/raisound_gateapi.git
+
+5.添加提示 git commit -m  “ ”
+
+6.添加所有 git add . 
+
+7.git status 文件信息是否添加了
