@@ -3,3 +3,6 @@ location / {
                 rewrite  ^(.*)$  /index.php?s=/$1  last;
             }
 }
+
+
+https://www.cnblogs.com/liluxiang/p/9592003.html
