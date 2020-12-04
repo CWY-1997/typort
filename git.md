@@ -11,3 +11,6 @@
 6.添加所有 git add . 
 
 7.git status 文件信息是否添加了
+
+8. git pull origin master                      拉取指定分支                                  `    
+
