@@ -4,3 +4,10 @@ https://www.cnblogs.com/liluxiang/p/9592003.html
 
 vue ui 可视化页面安装vue
 
+ vue-cli-plugin-element 安装插件
+
+npm install 建立node_modules
+
+ 
+
+npm run serve 启动项目
