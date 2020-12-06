@@ -1,4 +1,4 @@
-1.查看远程仓库信息  git remote -v
+·1.查看远程仓库信息  git remote -v
 
 2.提交到远程仓库 git push -u origin   //分支名称
 
